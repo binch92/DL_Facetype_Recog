@@ -56,6 +56,6 @@
 
 
 ## 📜 기술 스택
-![image](https://user-images.githubusercontent.com/119157378/229338212-2d52bca2-07a7-499e-9e98-601dadb2e272.png)
+![image](https://user-images.githubusercontent.com/119157378/231568042-ec93f76d-50be-406c-a16e-b5136861e018.png)
 
-![image](https://user-images.githubusercontent.com/119157378/229338227-b9bf5537-dbe0-4d01-82c9-9fcb02853e64.png)
+![image](https://user-images.githubusercontent.com/119157378/231568094-ee5d7da4-700b-43f6-83d9-80a43af21c5b.png)
